@@ -7,8 +7,7 @@
 
 
 # Arduino smart bike
-
-The  "smart bike" uses arduined, an LCD display and tachometer to show users the speed, rpm and distance traveled on the bicycle. 
+Regular bicycles may be mechanically sound, but they are still vehicles and should incorporate safety features while keeping track of data during rides. By programming an Arduino Uno board and attaching it to a bicycle along with other hardware components, it is possible to measure speed, distance traveled, and indicate whether certain speeds are dangerous for travel.
  
 ```
    _____                      _     ____  _ _        
