@@ -8,16 +8,6 @@
 
 # Arduino smart bike
 Regular bicycles may be mechanically sound, but they are still vehicles and should incorporate safety features while keeping track of data during rides. By programming an Arduino Uno board and attaching it to a bicycle along with other hardware components, it is possible to measure speed, distance traveled, and indicate whether certain speeds are dangerous for travel.
- 
-```
-   _____                      _     ____  _ _        
-  / ____|                    | |   |  _ \(_| |       
- | (___  _ __ ___   __ _ _ __| |_  | |_) |_| | _____ 
-  \___ \| '_ ` _ \ / _` | '__| __| |  _ <| | |/ / _ \
-  ____) | | | | | | (_| | |  | |_  | |_) | |   |  __/
- |_____/|_| |_| |_|\__,_|_|   \__| |____/|_|_|\_\___|                                                 
-                                                     
-```
 
 
 ## Authors
