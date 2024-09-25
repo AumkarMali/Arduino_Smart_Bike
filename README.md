@@ -33,6 +33,9 @@ Red, yellow, and green pins illuminate at designated RPM intervals to indicate w
 
 ## Hardware Components
 
+[![Your Image Description](https://i.ibb.co/YdZ8hSg/Screenshot-2024-09-25-154835.png)](https://ibb.co/rQ0Pj5H)
+
+
 ## Authors
 
 - [@AumkarMali](https://ibb.co/X4hXB1d)
