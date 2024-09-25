@@ -11,9 +11,13 @@ Regular bicycles may be mechanically sound, they are still vehicles and should c
 ## Program Explanation
 
 
-#### LCD display
+#### LCD Display Initialize
 
 To display data to the user during their ride, a liquid crystal display (LCD) is used. The parameters passed to the LCD object class is (0x27, 16, 2), the first value in this tuple is the I2C address of the LCD. And the other integers define the number of columns and rows, respectively. In the setup() function, the lcd is initialized and its backlight is turned on. 
+
+#### LCD Display Printing
+
+The `lcd.setCursor()` function positions the cursor at a specific character location on the screen, while the `lcd.print()` function outputs data starting from the cursor's current position.
 
 ## Authors
 
