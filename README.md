@@ -28,7 +28,8 @@ Red, yellow, and green pins illuminate at designated RPM intervals to indicate w
 
 
 ## Mechanical Components
-![alt text](https://www.google.com/imgres?q=image%20url&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F60f1a490a90ed8713c41c36c%2F1629223610791-LCBJG5451DRKX4WOB4SP%2F37-design-powers-url-structure.jpeg&imgrefurl=https%3A%2F%2Fdesignpowers.com%2Fblog%2Furl-best-practices&docid=PovUiluLyJN4GM&tbnid=uduDH4MZzbd1aM&vet=12ahUKEwjL_Nj67t6IAxWplIkEHQNyGEIQM3oECD4QAA..i&w=1000&h=523&hcb=2&ved=2ahUKEwjL_Nj67t6IAxWplIkEHQNyGEIQM3oECD4QAA)
+![Screenshot-2024-09-25-154635](https://i.ibb.co/g75y1NX/Screenshot-2024-09-25-154635.png)
+
 
 ## Hardware Components
 
