@@ -19,6 +19,10 @@ To display data to the user during their ride, a liquid crystal display (LCD) is
 
 The `lcd.setCursor()` function positions the cursor at a specific character location on the screen, while the `lcd.print()` function outputs data starting from the cursor's current position.
 
+#### Calculating RPM, speed, distance
+
+To measure the RPM of the bicycle wheels, an infrared (IR) sensor and an encoded disk with four encoders attached to the rear wheel were utilized. The program counts the number of steps, where each step corresponds to a part of the encoder detected by the IR sensor using the `digitalRead()` function. This counting occurs over a one-second interval, implemented with the following code: `start_time = millis(); end_time = start_time + 1000;`. By dividing the number of steps by the number of encoders, the revolutions per and can calculated and subsequently converted comverted RPM. This information can then be used to determine later velocity and based on using the circumference of bicycle's bicycles rear wheel.
+
 ## Authors
 
 - [@AumkarMali](https://www.github.com/AumkarMali)
