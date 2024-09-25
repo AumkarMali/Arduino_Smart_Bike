@@ -27,6 +27,10 @@ To measure the RPM of the bicycle wheels, an infrared (IR) sensor and an encoded
 Red, yellow, and green pins illuminate at designated RPM intervals to indicate whether the speeds are too high or too low for the rider. This is done with `digitalWrite(pin#, HIGH/LOW)`.
 
 
+## Mechanical Components
+
+## Hardware Components
+
 ## Authors
 
 - [@AumkarMali](https://www.github.com/AumkarMali)
