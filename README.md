@@ -29,13 +29,13 @@ Red, yellow, and green pins illuminate at designated RPM intervals to indicate w
 
 ## Mechanical Components
 
-https://ibb.co/X4hXB1d
+![Alt text](https://example.com/path/to/image.png)
 
 ## Hardware Components
 
 ## Authors
 
-- [@AumkarMali](https://www.github.com/AumkarMali)
+- [@AumkarMali](https://ibb.co/X4hXB1d)
 
 
 ## Deployment
