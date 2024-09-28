@@ -4,7 +4,7 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-# Arduino smart bike
+# Arduino Smart Bike
 
 Regular bicycles may be mechanically sound, they are still vehicles and should carry some safety features to them and keep track of data during a ride. By programming an Arduino Uno board and attaching it onto a bicycle with some other hardware components, I was able to measure speed, distance travelled, and indicate whether it is dangerous to travel with certain speeds.
 
